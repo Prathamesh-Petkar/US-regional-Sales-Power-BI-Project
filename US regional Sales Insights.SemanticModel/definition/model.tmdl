@@ -1,0 +1,26 @@
+model Model
+	culture: en-US
+	defaultPowerBIDataSourceVersion: powerBI_V3
+	sourceQueryCulture: en-US
+	dataAccessOptions
+		legacyRedirects
+		returnErrorValuesAsNull
+
+annotation PBI_QueryOrder = ["US_Regional_Sales_Data","New Measures"]
+
+annotation __PBI_TimeIntelligenceEnabled = 1
+
+annotation PBIDesktopVersion = 2.143.878.0 (25.05)+b20aa3b866ec1b70879135a4e60e4b1301c75b21
+
+annotation PBI_ProTooling = ["DevMode"]
+
+ref table US_Regional_Sales_Data
+ref table DateTableTemplate_c406cc52-0be6-4812-abcc-ee74e904a830
+ref table LocalDateTable_caa1dea8-e8d3-49d1-a395-873326ac9a9e
+ref table LocalDateTable_e2806cda-0a4a-40a4-ae6d-77b70700493a
+ref table LocalDateTable_4087b86f-5039-44a3-bd86-5d2c3d4d83f6
+ref table LocalDateTable_b230c852-ad38-485b-82ac-e3e0bc6ffe57
+ref table 'New Measures'
+
+ref cultureInfo en-US
+

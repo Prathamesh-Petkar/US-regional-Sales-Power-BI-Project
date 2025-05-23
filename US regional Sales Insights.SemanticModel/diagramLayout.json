@@ -1,0 +1,48 @@
+{
+  "version": "1.1.0",
+  "diagrams": [
+    {
+      "ordinal": 0,
+      "scrollPosition": {
+        "x": 0,
+        "y": 0
+      },
+      "nodes": [
+        {
+          "location": {
+            "x": 7,
+            "y": 0
+          },
+          "nodeIndex": "US_Regional_Sales_Data",
+          "nodeLineageTag": "774ab6bc-ec76-48fd-9f50-a0777417be72",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 1
+        },
+        {
+          "location": {
+            "x": 286,
+            "y": 2
+          },
+          "nodeIndex": "New Measures",
+          "nodeLineageTag": "412f03aa-a38c-42bd-835c-1e1680b99842",
+          "size": {
+            "height": 303,
+            "width": 234
+          },
+          "zIndex": 2
+        }
+      ],
+      "name": "All tables",
+      "zoomValue": 100,
+      "pinKeyFieldsToTop": false,
+      "showExtraHeaderInfo": false,
+      "hideKeyFieldsWhenCollapsed": false,
+      "tablesLocked": false
+    }
+  ],
+  "selectedDiagram": "All tables",
+  "defaultDiagram": "All tables"
+}
