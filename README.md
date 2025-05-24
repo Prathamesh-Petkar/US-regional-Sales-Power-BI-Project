@@ -1,6 +1,6 @@
 # US Regional Sales Insights - Power BI Project
 
-! [Power BI Dashboard Screenshot](DASHBOARD_SCREENSHOT.png)
+![Power BI Dashboard Screenshot](DASHBOARD_SCREENSHOT.png)
 
 This repository contains a Power BI project analyzing US regional sales data, providing insights into sales distribution, profitability, and year-over-year trends across multiple channels (In-Store, Online, Distributor, Wholesale).
 
