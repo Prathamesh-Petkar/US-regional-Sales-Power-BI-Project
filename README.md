@@ -10,9 +10,8 @@ This repository contains a Power BI project analyzing US regional sales data, pr
 
 ## Project Structure
 - `US_regional_Sales_Insights.pbip`: Power BI project file.
-- `US_regional_Sales_Insights.REPORT/`: Folder containing report definitions.
-- `US_regional_Sales_Insights.SEMANTICMODEL/`: Folder containing dataset definitions.
-- `SalesData.xlsx`: Excel file containing the source data for the project.
+- 'Dashboard_Screenshot.png': Screenshot of Power BI dashboard.
+- `US_Regional_Sales_Data.xlsx`: Excel file containing the source data for the project.
 - `Dashboard Report.docx`: Detailed report with inferences and implications.
 
 ## How to Use
