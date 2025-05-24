@@ -1,7 +1,5 @@
 # US Regional Sales Insights - Power BI Project
 
-![Power BI Dashboard Screenshot] (https://raw.githubusercontent.com/Prathamesh-Petkar/US-regional-Sales-Power-BI-Project/refs/heads/main/README.md)
-
 This repository contains a Power BI project analyzing US regional sales data, providing insights into sales distribution, profitability, and year-over-year trends across multiple channels (In-Store, Online, Distributor, Wholesale).
 
 ## Key Insights
